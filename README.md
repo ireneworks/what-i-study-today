@@ -8,3 +8,6 @@ fnm, nvm
 npm i
 yarn
 
+github
+origin
+upstream
