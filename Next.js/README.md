@@ -1,4 +1,4 @@
-#Next.js
+# Next.js
 
 LTS Stable한 버젼은 even 넘버 홀수는 잘 다운받지 않는다 fnm, nvm
 
