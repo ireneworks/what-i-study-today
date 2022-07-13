@@ -58,4 +58,9 @@ MPA(Multiple Page Application)
 | CSR    | 아고다               | 유저 인터렉션이 많기 때문에                   |
 
 
+----------
 
+React의 SSR 프레임워크 Next.js
+Vue -> Nuxt
+Angular -> 자체적으로 4버젼에 포함
+Gatsby
