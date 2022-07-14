@@ -63,4 +63,4 @@ MPA(Multiple Page Application)
 React의 SSR 프레임워크 Next.js
 Vue -> Nuxt
 Angular -> 자체적으로 4버젼에 포함
-Gatsby
+Gatsby.js
