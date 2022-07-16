@@ -43,9 +43,8 @@ MPA(Multiple Page Application)
 ###### 동작방식
 
 1. 유저가 페이지를 요청
-2. HTML 먼저 랜더링 (TTV)
-3. JS 다운로드, 유저 인터렉션 있다면 기억
-4. 유저 인터렉션 가능 (TTV < > TTI 공백시간)
+2. 데이터 바인딩된 완성된 HTML 랜더링 (pre-rendering)
+3. 유저 인터렉션 가능
 
 ----------
 
